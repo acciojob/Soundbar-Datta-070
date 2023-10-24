@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(158, 83, 227);
+}
+.btn{
+	border-radius:2px;
+	border:none;
+	padding:10px;
+	background-color: rgb(101, 50, 148);
+	color:white;
+	padding-left:20px;
+	padding-right:20px;
+}
+.buttons{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:10px;
+	position:absolute;
+	height:100%;
+	width:100%;
+}
